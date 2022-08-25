@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uitests.TestsOfExamplePage" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-24T08:50:55" hostname="DESKTOP-PC0AS14" time="9.928">
+  <properties/>
+  <testcase name="openTestPage" classname="uitests.TestsOfExamplePage" time="9.928"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[авг 24, 2022 11:50:56 AM org.openqa.selenium.remote.RemoteWebDriver startSession
+WARNING: Support for Legacy Capabilities is deprecated; You are sending the following invalid capabilities: [acceptSslCerts, handlesAlerts, javascriptEnabled, takesScreenshot]; Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+Starting ChromeDriver 104.0.5112.79 (3cf3e8c8a07d104b9e1260c910efb8f383285dc5-refs/branch-heads/5112@{#1307}) on port 54774
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+авг 24, 2022 11:51:02 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+авг 24, 2022 11:51:02 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+WARNING: Support for Legacy Capabilities is deprecated; You are sending the following invalid capabilities: [acceptSslCerts, handlesAlerts, javascriptEnabled, takesScreenshot]; Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+авг 24, 2022 11:51:02 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 104, so returning the closest version found: 102
+авг 24, 2022 11:51:02 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 104 of 102
+]]></system-err>
+</testsuite>
